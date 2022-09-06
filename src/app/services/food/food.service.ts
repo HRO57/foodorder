@@ -11,7 +11,7 @@ export class FoodService {
     return [
       {
         id: 1,
-        name: 'Salad',
+        name: 'Salad-Indian',
         price: 9,
         cookTime: '10-20',
         favorite: false,
@@ -22,7 +22,7 @@ export class FoodService {
       },
       {
         id: 2,
-        name: 'Chicken',
+        name: 'Chicken-Bangladeshi',
         price: 9,
         cookTime: '10-20',
         favorite: false,
@@ -33,7 +33,7 @@ export class FoodService {
       },
       {
         id: 3,
-        name: 'Salad',
+        name: 'Salad-Italy',
         cookTime: '10-20',
         price: 9,
         favorite: false,
@@ -44,7 +44,7 @@ export class FoodService {
       },
       {
         id: 4,
-        name: 'Chicken',
+        name: 'Chicken-Franch',
         cookTime: '10-20',
         price: 9,
         favorite: false,
@@ -55,7 +55,7 @@ export class FoodService {
       },
       {
         id: 5,
-        name: 'Salad',
+        name: 'Salad-America',
         cookTime: '10-20',
         price: 9,
         favorite: false,
@@ -66,7 +66,7 @@ export class FoodService {
       },
       {
         id: 6,
-        name: 'Chicken',
+        name: 'Chicken-U.K',
         cookTime: '10-20',
         price: 9,
         favorite: false,
@@ -77,7 +77,7 @@ export class FoodService {
       },
       {
         id: 7,
-        name: 'Salad',
+        name: 'Salad-Pakistan',
         cookTime: '10-20',
         price: 9,
         favorite: false,
@@ -88,7 +88,7 @@ export class FoodService {
       },
       {
         id: 8,
-        name: 'Chicken',
+        name: 'Chicken-Australia',
         cookTime: '10-20',
         price: 9,
         favorite: false,
@@ -99,7 +99,7 @@ export class FoodService {
       },
       {
         id: 9,
-        name: 'Salad',
+        name: 'Salad-Nepal',
         cookTime: '10-20',
         price: 9,
         favorite: false,
